@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+body{
+    margin: 0px ;
+    font-family: 'Mitr', sans-serif !important;
+}
+.container{
+    width: 70%;
+    margin: 0px;
+    padding: 10px;
+}
+form{
+    padding: 10px;
+    float: right;
+}
+.menu-admin{
+    float: left;
+    box-sizing: border-box;
+    padding: 20px;
+}
